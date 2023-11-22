@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66cdb427-0581-40be-a446-e8fa6aed1caf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RentACar" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SXA3chnvyMCRXmu2s8hq5c6d4P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/UFAZ/githubproject/RentACar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;dc308a0713062375862df6c556c43bc0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RentACarAPliccation">
+    <configuration name="RentACarAPliccation" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="rentACar.RentACarAPliccation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rentACar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SprApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.spr.SprApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66cdb427-0581-40be-a446-e8fa6aed1caf" name="Changes" comment="" />
+      <created>1689282357329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689282357329</updated>
+      <workItem from="1689282358570" duration="587000" />
+      <workItem from="1689571665673" duration="1754000" />
+      <workItem from="1689592137686" duration="9354000" />
+      <workItem from="1689625861545" duration="25000" />
+      <workItem from="1689873898507" duration="3638000" />
+      <workItem from="1689887760926" duration="1345000" />
+      <workItem from="1689889514601" duration="15000" />
+      <workItem from="1689917203624" duration="124000" />
+      <workItem from="1690224199318" duration="247000" />
+      <workItem from="1691781195666" duration="681000" />
+      <workItem from="1691827726731" duration="154000" />
+      <workItem from="1692634465452" duration="621000" />
+      <workItem from="1692689065130" duration="183000" />
+      <workItem from="1692912902221" duration="45000" />
+      <workItem from="1695709449312" duration="1479000" />
+      <workItem from="1700332837798" duration="7261000" />
+      <workItem from="1700382776129" duration="6130000" />
+      <workItem from="1700406842189" duration="1432000" />
+      <workItem from="1700511190132" duration="468000" />
+      <workItem from="1700511677913" duration="97000" />
+      <workItem from="1700549825757" duration="1065000" />
+      <workItem from="1700595429297" duration="5235000" />
+      <workItem from="1700635823726" duration="3243000" />
+      <workItem from="1700680939129" duration="3225000" />
+      <workItem from="1700684661002" duration="274000" />
+      <workItem from="1700684957401" duration="11000" />
+      <workItem from="1700684984667" duration="9000" />
+      <workItem from="1700685490030" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
