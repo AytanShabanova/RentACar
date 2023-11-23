@@ -6,6 +6,7 @@ import com.example.rentacarspr.businnes.requests.CreateBrandRequest;
 import com.example.rentacarspr.businnes.requests.UpDateBrandRequest;
 import com.example.rentacarspr.businnes.responses.GetAllBrandsResponse;
 import com.example.rentacarspr.businnes.responses.GetBrandIdResponse;
+import com.example.rentacarspr.businnes.rules.BrandBusinessRules;
 import com.example.rentacarspr.concretes.Brand;
 import com.example.rentacarspr.dataAcces.abstracts.BrandRepository;
 import com.example.rentacarspr.mappers.ModelMapperService;
@@ -23,11 +24,8 @@ import java.util.stream.Collectors;
 public class BrandManager implements BrandService {
     private final BrandRepository brandRepository;
     private final ModelMapperService modelMapperService;
-//@Autowired
-//    public BrandManager(BrandRepository brandRepository) {
-//
-//    this.brandRepository = brandRepository;
-//    }
+    private final BrandBusinessRules brandBusinessRules;
+
 
     @Override
     public List<GetAllBrandsResponse> getAll() {
@@ -59,8 +57,7 @@ public class BrandManager implements BrandService {
 
     @Override
     public void add(CreateBrandRequest createBrandRequest) {
-//        Brand brand=new Brand();
-//        brand.setName(createBrandRequest.getName());
+       brandBusinessRules.checkIfBrandNameExists(createBrandRequest.getName());
         Brand brand=modelMapperService.forRequest().map(createBrandRequest, Brand.class);
         brandRepository.save(brand);
 
